@@ -13,5 +13,13 @@
  *= require_tree .
  *= require_self
  */
+//Boostrap
+
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+// Variables
+@import "base/variables.scss";
+
+// Partials - main css files
+@import "partials/layout/*";
