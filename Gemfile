@@ -28,7 +28,7 @@ gem 'rename'
 # gem 'image_processing', '~> 1.2'
 
 gem 'bootstrap-sass', '~> 3.3.6'
-gem 'sassc-rails', '>= 2.1.0'
+gem 'sass-rails', '~> 5.0'
 gem 'bootstrap_form'
 
 gem 'devise'

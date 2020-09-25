@@ -14,17 +14,18 @@
  *= require_self
  */
 //Boostrap
-
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
 // Variables
-@import "base/variables.scss";
 @import "base/*";
+
 
 // Partials - main css files
 @import "partials/layout/*";
 @import "partials/*";
 
 // Default styles
+
+
 
