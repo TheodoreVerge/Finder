@@ -132,6 +132,7 @@ GEM
       mini_portile2 (~> 2.4.0)
     orm_adapter (0.5.0)
     pg (1.2.3)
+    phantomjs (2.1.1.0)
     poltergeist (1.18.1)
       capybara (>= 2.1, < 4)
       cliver (~> 0.3.1)
@@ -276,6 +277,7 @@ DEPENDENCIES
   jquery-rails
   listen (~> 3.2)
   pg (>= 0.18, < 2.0)
+  phantomjs
   poltergeist
   puma (~> 4.1)
   rails (~> 6.0.3, >= 6.0.3.3)
